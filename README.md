@@ -1,5 +1,7 @@
 A semi-automatic downloading script for Google Arts and Culture images.
 
+As this script uses `gapdownloader` as a submodule, you need to clone it with `git clone https://github.com/expenses/art-downloader --recursive`
+
 # Requirements
 
 As this script uses `asyncio`, you'll need Python 3.6.
