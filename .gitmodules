@@ -1,0 +1,3 @@
+[submodule "gapdecoder"]
+	path = gapdecoder
+	url = https://github.com/expenses/gapdecoder
