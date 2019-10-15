@@ -1,3 +1,5 @@
+> **NOTE** : This project has been superseeded by [**gapdecoder**](https://github.com/gap-decoder/gapdecoder), which is easier to use and more up-to-date.
+
 A semi-automatic downloading script for Google Arts and Culture images.
 
 As this script uses `gapdownloader` as a submodule, you need to clone it with `git clone https://github.com/expenses/art-downloader --recursive`
